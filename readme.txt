@@ -1,4 +1,5 @@
 Hello world
 Something new
-Comethign newer
+Something newer
 Bugfix
+New Feature changes
