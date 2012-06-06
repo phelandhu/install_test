@@ -1,4 +1,2 @@
-Test
-
-
-test
+#!/bin/bash
+echo "Test work"
